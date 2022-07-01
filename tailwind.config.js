@@ -3,6 +3,7 @@ module.exports = {
   content: ['./public/**/*.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   presets: [],
   darkMode: 'media', // or 'class'
+  prefix: 'tw-',
   theme: {
     screens: {
       sm: '640px',
@@ -950,5 +951,5 @@ module.exports = {
     'active',
     'disabled',
   ],
-  plugins: [],
+  plugins: [require('@tailwindcss/line-clamp'),],
 }
