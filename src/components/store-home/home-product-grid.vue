@@ -22,7 +22,7 @@
    </div>
 </template>
 <script>
-import ProductCard from "../common/Home/home-product-card.vue"
+import ProductCard from "../../common/Cards/home-product-card.vue";
 export default {
     components:{
         ProductCard,

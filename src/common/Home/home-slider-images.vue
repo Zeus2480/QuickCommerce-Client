@@ -13,7 +13,7 @@
       >
            
          <div class="tw-flex">
-            <div class="tw-w-1/3"><v-img :src="items[0].src"></v-img></div>
+            <div class="tw-w-1/3"><v-img :src="items[4].src"></v-img></div>
             <div class="tw-w-1/3"><v-img :src="items[1].src"></v-img></div>
             <div class="tw-w-1/3"><v-img :src="items[3].src"></v-img></div>
          </div>

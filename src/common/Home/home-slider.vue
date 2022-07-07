@@ -27,6 +27,9 @@ export default {
             {
                src: "hthttps://i.ibb.co/qrJzpGL/Frame-1429.png",
             },
+            {
+               src: "hthttps://i.ibb.co/qrJzpGL/Frame-1429.png",
+            },
          ],
       };
    },

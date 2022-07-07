@@ -7,8 +7,8 @@
 </template>
 <script>
 import HomeSlider from "../common/Home/home-slider.vue";
-import ShopByCAtegory from "../components/home-shopbycategory.vue"
-import ProductCategoryGrid from "../components/home-product-grid";
+import ShopByCAtegory from "../components/store-home/home-shopbycategory.vue"
+import ProductCategoryGrid from "../components/store-home/home-product-grid";
 export default {
     components:{
         HomeSlider,

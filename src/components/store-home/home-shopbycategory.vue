@@ -5,7 +5,7 @@
     </div>
 </template>
 <script>
-import ShopByCAtegorySlider from "../common/Home/home-shopbycategory-slider.vue"
+import ShopByCAtegorySlider from "../../common/Home/home-shopbycategory-slider.vue"
 export default {
     components:{
         ShopByCAtegorySlider,
